@@ -1,4 +1,29 @@
-My Awesome Book
-=======
+즐거운 생활[^1]
+============
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+
+
+
+[^1]자세한 내용은 아래 [블로그](http://blog.naver.com/vitalkey) 참조  
+
+
+####네가 원하는 것이 진짜로 뭐야? ~~그런걸뭐하러~~
+
+```javascript
+잘 안되네 
+```
+
+
+
+
+
+*마음가는대로* 
+
+**정말 모르겠다면**
+
+***현실은 환상과 다르다***
+
+
+~~**마음**~~
+
+
