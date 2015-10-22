@@ -10,5 +10,5 @@
 
 * [두번째 : 나와 우리의 시간](chapter2.md)
    * [유목하는 관계](secarticle1.md)
-   * [반복과 놀이](searticle2.md)
+   * [반복과 놀이](secarticle2.md)
    
