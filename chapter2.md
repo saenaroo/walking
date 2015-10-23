@@ -2,20 +2,9 @@
 
 
 
-1. 정상인 것과 정상이 아닌 것
-1. 오늘은 되고 내일은 안 된다
-1. 별것도 없는 것이 요란하긴 되게 요란하다
-1. 말은 없으나 행동은 복잡하다
+<div class="intrinsic-container">
+  <iframe src="https://youtu.be/X61BVv6pLtw" allowfullscreen style="width:720px; height :480px"></iframe>
+</div>
+   
 
 
-## 
-
-
-### 
-
-
-# 
-
-| 0:0 | 1:0 |정말|
-| -- | -- |
-| 0:2 | 1:2 |인정욕망|
