@@ -1,10 +1,6 @@
 # 나와 우리의 시간
 
 
-
 <div class="intrinsic-container">
-  <iframe src="https://youtu.be/X61BVv6pLtw" allowfullscreen style="width:720px; height :480px"></iframe>
+  <iframe src="//www.youtube.com/watch?v=X61BVv6pLtw" allowfullscreen style="width:100%; height :480px"></iframe>
 </div>
-   
-
-
