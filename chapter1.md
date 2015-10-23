@@ -1,3 +1,4 @@
 ## 작고 하찮은 것들에 대한 이야기
 
 
+![](sundaeicecream.jpg)
